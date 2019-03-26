@@ -1,0 +1,18 @@
+c:\users\gottliebtherotten\documents\visual studio 2015\Projects\TextAnalyzer\TextAnalyzer\bin\Debug\TextAnalyzer.exe.config
+c:\users\gottliebtherotten\documents\visual studio 2015\Projects\TextAnalyzer\TextAnalyzer\bin\Debug\TextAnalyzer.exe
+c:\users\gottliebtherotten\documents\visual studio 2015\Projects\TextAnalyzer\TextAnalyzer\bin\Debug\TextAnalyzer.pdb
+c:\users\gottliebtherotten\documents\visual studio 2015\Projects\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.Properties.Resources.resources
+c:\users\gottliebtherotten\documents\visual studio 2015\Projects\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.GenerateResource.Cache
+c:\users\gottliebtherotten\documents\visual studio 2015\Projects\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.exe
+c:\users\gottliebtherotten\documents\visual studio 2015\Projects\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.pdb
+c:\users\gottliebtherotten\documents\visual studio 2015\Projects\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.MainForm.resources
+c:\users\gottliebtherotten\documents\visual studio 2015\Projects\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\4_курс\Технологии анализа данных\5_Лабораторные по анализу c#\TextAnalyzer\TextAnalyzer\bin\Debug\TextAnalyzer.exe.config
+C:\Users\Anton\Documents\4_курс\Технологии анализа данных\5_Лабораторные по анализу c#\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.exe
+C:\Users\Anton\Documents\4_курс\Технологии анализа данных\5_Лабораторные по анализу c#\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.pdb
+C:\Users\Anton\Documents\4_курс\Технологии анализа данных\5_Лабораторные по анализу c#\TextAnalyzer\TextAnalyzer\bin\Debug\TextAnalyzer.exe
+C:\Users\Anton\Documents\4_курс\Технологии анализа данных\5_Лабораторные по анализу c#\TextAnalyzer\TextAnalyzer\bin\Debug\TextAnalyzer.pdb
+C:\Users\Anton\Documents\4_курс\Технологии анализа данных\5_Лабораторные по анализу c#\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\4_курс\Технологии анализа данных\5_Лабораторные по анализу c#\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.MainForm.resources
+C:\Users\Anton\Documents\4_курс\Технологии анализа данных\5_Лабораторные по анализу c#\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.Properties.Resources.resources
+C:\Users\Anton\Documents\4_курс\Технологии анализа данных\5_Лабораторные по анализу c#\TextAnalyzer\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.GenerateResource.Cache
